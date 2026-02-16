@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Algorithms and data structures**
 
-- 👨‍💻 All of my projects are available at [goncalo-sousa.pt](goncalo-sousa.pt)
-
 - 💬 Ask me about **Django and Python**
 
 - 📫 How to reach me **gsag.sousa@icloud.com**
